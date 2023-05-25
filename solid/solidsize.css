@@ -3,3 +3,11 @@
 #signup fieldset span { display: inline-block; vertical-align: middle; }
 
 #signup fieldset input { vertical-align: middle; }
+
+
+#login { margin: 30px; }
+
+#login fieldset span { display: inline-block; vertical-align: middle; }
+
+#login fieldset input { vertical-align: middle; }
+
